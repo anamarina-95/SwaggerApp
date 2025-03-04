@@ -19,3 +19,4 @@ def get_json():
 
 get_json()
 print("hello")
+print("bla bla")
