@@ -18,3 +18,4 @@ def get_json():
         print(c)
 
 get_json()
+print("hello")
